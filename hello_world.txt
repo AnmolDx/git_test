@@ -1,0 +1,2 @@
+hey this is me 
+learning git by odin project
